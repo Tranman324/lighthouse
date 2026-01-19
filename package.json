@@ -1,0 +1,25 @@
+{
+  "name": "yosmart-spike",
+  "version": "1.0.0",
+  "description": "Yosmart API feasibility spike - validating door sensor API integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yosmart",
+    "yolink",
+    "mqtt",
+    "iot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mqtt": "^5.3.5"
+  },
+  "engines": {
+    "node": ">=20.x"
+  }
+}
